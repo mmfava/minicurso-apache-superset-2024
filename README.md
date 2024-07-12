@@ -1,3 +1,5 @@
+![](image.png)
+
 # Minicurso: Apache Superset
 
 ## Sobre
