@@ -68,3 +68,5 @@ Login inicial:
 
 - [Artigo do Medium sobre instalação do Apache Superset com Docker](https://medium.com/yavar/apache-superset-docker-installation-9e4cc58224fd)
 - [Documentação Oficial do Superset](https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/)
+
+  
